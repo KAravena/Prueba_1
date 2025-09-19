@@ -1,5 +1,3 @@
 #pruebaa 
 
-print("Hello my friend")
-
-print("Prueba PUll")
+print("Prueba push to GitHub")
